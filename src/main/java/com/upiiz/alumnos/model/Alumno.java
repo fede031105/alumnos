@@ -22,7 +22,7 @@ public class Alumno {
 
     private int edad;
 
-    // Construotores, Getters y Setters (si usas Lombok, solo pon @Data arriba de la clase)
+    // Construotores, Geters y Setters (si usas Lombok, solo pon @Data arriba de la clase)
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
 
